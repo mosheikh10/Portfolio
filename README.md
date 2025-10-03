@@ -4,3 +4,4 @@ A documentation of my DevOps learning journey — Linux, Git, Docker, Terraform,
 
 ## 📂 Learning Modules
 - [Linux](https://github.com/mosheikh10/Linux)
+- [Bash](https://github.com/mosheikh10/Bash)
